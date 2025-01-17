@@ -1,9 +1,5 @@
-/*
-div id=parent
-    div id=child
-    h1
-*/
-// JSX
+import React from "react";
+import ReactDOM from 'react-dom/client'; 
 const parent = React.createElement("div", { id: "parent" }, [
   React.createElement("div", { id: "child1" }, [
     React.createElement("h1", {}, "Hello From h1 Child"),

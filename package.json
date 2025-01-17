@@ -1,0 +1,31 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "This is Practice tutorial",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beard-boy9934/Practice-React.git"
+  },
+  "keywords": [],
+  "author": "Sunny Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beard-boy9934/Practice-React/issues"
+  },
+  "homepage": "https://github.com/beard-boy9934/Practice-React#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "browserslist":[
+    "last 10 Chrome version",
+    "last 2 Firefox version"
+  ]
+}
