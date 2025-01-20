@@ -58,7 +58,7 @@
   cursor: pointer;
 }
 
-.res-container {
+.res-container ,.shimmer-container {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
@@ -94,4 +94,22 @@
   margin-bottom: 20px;
   text-align: center;
 }
-
+.filter-btn{
+  margin: 10px;
+  cursor: pointer;
+}
+.shimmer-card{
+  width: 200px;
+  margin: 20px;
+  height: 400px;
+  background-color: #f0f0f0
+}
+.login{
+  width: 100px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+}
+.filter{
+  display: flex;
+}
