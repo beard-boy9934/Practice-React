@@ -113,3 +113,9 @@
 .filter{
   display: flex;
 }
+.user-card {
+  padding: 10px;
+  border: 2px solid black;
+  width: 50%;
+  text-align: center;
+}
