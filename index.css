@@ -1,4 +1,4 @@
-*,
+/* *,
 *::before,
 *::after {
   margin: 0;
@@ -118,4 +118,5 @@
   border: 2px solid black;
   width: 50%;
   text-align: center;
-}
+} */
+@import "tailwindcss";
